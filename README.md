@@ -5,7 +5,7 @@ Replace each project title's #repository-links target with its real repository U
 Enable the commented snake image only after the workflow succeeds.
 -->
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="An original sword-backed throne above Lokesh Kumar S, framed by icy mountains, castles, antique gold, and crimson shadows." />
+  <img src="LKCSE78/assets/hero.png" width="100%" alt="An original sword-backed throne above Lokesh Kumar S, framed by icy mountains, castles, antique gold, and crimson shadows." />
 </p>
 
 <h1 align="center">Lokesh Kumar S — The Builder of Digital Kingdoms</h1>
