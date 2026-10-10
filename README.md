@@ -1,11 +1,11 @@
 <!--
 SETUP: Replace YOUR_GITHUB_USERNAME and YOUR_EMAIL.
-Upload assets/ alongside this file. Project URLs are intentionally not fabricated.
+Upload assests/ alongside this file. Project URLs are intentionally not fabricated.
 Replace each project title's #repository-links target with its real repository URL.
 Enable the commented snake image only after the workflow succeeds.
 -->
 <p align="center">
-  <img src="LKCSE78/assets/hero.png" width="100%" alt="An original sword-backed throne above Lokesh Kumar S, framed by icy mountains, castles, antique gold, and crimson shadows." />
+  <img src="./assests/hero.png" width="100%" alt="An original sword-backed throne above Lokesh Kumar S, framed by icy mountains, castles, antique gold, and crimson shadows." />
 </p>
 
 <h1 align="center">Lokesh Kumar S — The Builder of Digital Kingdoms</h1>
@@ -33,20 +33,20 @@ Enable the commented snake image only after the workflow succeeds.
   <a href="#contact">Contact</a>
 </p>
 
-<p align="center"><img src="./assets/dragon-forge.gif" width="760" alt="An original gold dragon silhouette gently beats its wings above drifting embers." /></p>
+<p align="center"><img src="./assests/dragon-forge.gif" width="760" alt="An original gold dragon silhouette gently beats its wings above drifting embers." /></p>
 
 > **My oath:** I build intelligent systems, engineer practical solutions, and continuously expand my technical kingdom.
 
 <details>
 <summary>Prefer less motion? Open the static artwork collection</summary>
 
-[Dragon forge](./assets/dragon-forge.png) · [Winter watch](./assets/winter-watch.png) · [Raven flight](./assets/raven-flight.png)
+[Dragon forge](./assests/dragon-forge.png) · [Winter watch](./assests/winter-watch.png) · [Raven flight](./assests/raven-flight.png)
 
 These links are still-image alternatives, not a page-wide animation switch.
 
 </details>
 
-<img src="./assets/map-divider.png" width="100%" alt="An antique-gold route connects six diamond markers across a dark parchment-inspired map." />
+<img src="./assests/map-divider.png" width="100%" alt="An antique-gold route connects six diamond markers across a dark parchment-inspired map." />
 
 ## About
 ### The Chronicles of Lokesh
@@ -99,7 +99,7 @@ I’m continuously strengthening my programming fundamentals and software engine
 
 ### The Six Houses of My Craft
 
-<p align="center"><img src="./assets/winter-watch.gif" width="760" alt="Slow snowfall crosses an original blue mountain landscape." /></p>
+<p align="center"><img src="./assests/winter-watch.gif" width="760" alt="Slow snowfall crosses an original blue mountain landscape." /></p>
 
 <details open>
 <summary>❄ House Stark — The Guardians of Logic</summary>
@@ -169,7 +169,7 @@ Continuous technical learning, research-minded exploration, and ambitious goals 
 
 </details>
 
-<img src="./assets/map-divider.png" width="100%" alt="Gold map-route divider." />
+<img src="./assests/map-divider.png" width="100%" alt="Gold map-route divider." />
 
 ## Projects
 ### The Council of Inventors
@@ -282,7 +282,7 @@ Actual repository URLs have not yet been supplied. These are explicit placeholde
 
 **Ongoing quests:** Technical coursework, project-based learning, programming practice, and exploration across AI, APIs, analytics, and automation.
 
-<img src="./assets/map-divider.png" width="100%" alt="Gold map-route divider." />
+<img src="./assests/map-divider.png" width="100%" alt="Gold map-route divider." />
 
 ## GitHub Stats
 ### The Chronicles
@@ -327,7 +327,7 @@ Until then: [View my contribution calendar](https://github.com/YOUR_GITHUB_USERN
 ## Contact
 ### The Raven Network
 
-<p align="center"><img src="./assets/raven-flight.gif" width="760" alt="Original gold raven silhouettes glide across a moonlit obsidian sky." /></p>
+<p align="center"><img src="./assests/raven-flight.gif" width="760" alt="Original gold raven silhouettes glide across a moonlit obsidian sky." /></p>
 
 Interested in **AI, ML, backend development, or open-source collaboration**? Send a raven—let’s discuss something useful to build.
 
